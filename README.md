@@ -1,4 +1,4 @@
-## Oi, eu sou a Tayná Alexandra!
+## Olá, eu sou a Tayná Alexandra!
 
 <div align="center">
   <a href="https://github.com/taynalexandra">
